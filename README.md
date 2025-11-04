@@ -38,7 +38,7 @@ MongoDB
 Git
 Installation
 Clone the repo:
-https://github.com/salma1129/F-Project
+https://github.com/Roualadhari/HR-Management.git
 cd F-Project
 Install dependencies
 npm install
